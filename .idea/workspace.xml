@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02506a6c-8f34-4041-9117-a1ad0eb65f1e" name="Default Changelist" comment="Adding str vs bytes code which shows how to properly combine bytes and strings.">
-      <change afterPath="$PROJECT_DIR$/template_strings/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="02506a6c-8f34-4041-9117-a1ad0eb65f1e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures/heap_using_heapq.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structures/heap_using_heapq.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +21,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="48" />
-    <option name="width" value="1221" />
-    <option name="height" value="635" />
-  </component>
   <component name="ProjectId" id="1Prn0CPvonkm4boUPpnAXJnuOF7" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -56,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.heap_using_heapq">
     <configuration name="LeadersInAnArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,9 +161,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.heap_using_heapq" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.heap_using_heapq" />
         <item itemvalue="Python.LeadersInAnArray" />
         <item itemvalue="Python.RotatingAnArray" />
       </list>
@@ -189,7 +181,7 @@
       <updated>1559877122181</updated>
       <workItem from="1568803865699" duration="1692000" />
       <workItem from="1569431482776" duration="3319000" />
-      <workItem from="1569588304976" duration="2319000" />
+      <workItem from="1569588304976" duration="5128000" />
     </task>
     <task id="LOCAL-00001" summary="Added instagram snippets of python">
       <created>1559878360896</created>
@@ -212,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569589246704</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding template strings code using Template function.">
+      <created>1569591507532</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569591507532</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,11 +234,12 @@
     <MESSAGE value="Added instagram snippets of python" />
     <MESSAGE value="Adding str vs bytes code which shows how to properly combine bytes and strings." />
     <MESSAGE value="Appended string to bytes conversion by UTF-32 format." />
-    <option name="LAST_COMMIT_MESSAGE" value="Appended string to bytes conversion by UTF-32 format." />
+    <MESSAGE value="Adding template strings code using Template function." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding template strings code using Template function." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1569591370533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/template_strings" />
     <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="main Coverage Results" MODIFIED="1569589188035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strings_vs_bytes" />
-    <SUITE FILE_PATH="coverage/Python$heap_using_heapq.coverage" NAME="heap_using_heapq Coverage Results" MODIFIED="1569509562295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
+    <SUITE FILE_PATH="coverage/Python$heap_using_heapq.coverage" NAME="heap_using_heapq Coverage Results" MODIFIED="1569593735172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structures" />
   </component>
 </project>
