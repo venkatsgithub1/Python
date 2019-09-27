@@ -17,6 +17,9 @@ def main():
 
     print(b + bytes_2)
 
+    # Encoding String to UTF-32, to get bytes.
+    print(s.encode('UTF-32'))
+
 
 if __name__ == "__main__":
     main()
